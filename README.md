@@ -25,7 +25,7 @@ To Answer the following questions:
 
 The raw data about trending videos in youtube was given to start with to answer our questions
 
-we analyzed the data and removed duplicat values
+We analyzed the data and removed duplicat values
 
 ```sh
 USvideo.drop_duplicates(subset=['video_id']) 
