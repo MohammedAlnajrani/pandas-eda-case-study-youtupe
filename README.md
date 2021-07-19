@@ -26,7 +26,7 @@ The raw data about trending videos in youtube was given to start with to answer 
 
 we analyzed the data and removed duplicat values
 
--bulding our Jupyter notebook:
+-building our Jupyter notebook:
 we built Jupyter notebook using pandas and  numpy, matplotlib and seaborn
 
 -Results:answered our questions, visulization:
