@@ -22,14 +22,15 @@ To Answer the following questions:
 - identify the top 5 videos in USA?
 
 ## DATA cleansing:
+
 The raw data about trending videos in youtube was given to start with to answer our questions
 
 we analyzed the data and removed duplicat values
 
--building our Jupyter notebook:
+## Building our Jupyter notebook:
 we built Jupyter notebook using pandas and  numpy, matplotlib and seaborn
 
--Results:answered our questions, visulization:
+## Results:answered our questions, visulization:
 
 the most trending (top 15) Youtube Channels in US,GB,jp and FR?
 
