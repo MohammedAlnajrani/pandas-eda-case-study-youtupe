@@ -91,6 +91,13 @@ identify the top 5 videos in USA?
 ![](images/topUSA-views.png)
 
 
+## Future works:
+
+- Funcation for print top 5 in each country
+
+- Dose the thumbnail each on like or views
+
+- What the most word used in tags
 
 
 
