@@ -37,7 +37,7 @@ the most trending (top 15) Youtube Channels in US,GB,jp and FR?
 
 Trending video have Disabled Comment?
 
-![](images/trendingDiscomment.png)
+![](images/trendingDisComment.png)
 
 correlation between likes ,dislikes ,views and comment.
 
