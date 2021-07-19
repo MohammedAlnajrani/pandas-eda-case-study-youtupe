@@ -1,6 +1,6 @@
 # pandas-eda-case-study-youtupe
 
-Trending YouTube Video 
+## _Trending YouTube Video_
 
 YouTube is a video-sharing service where users can watch, like, share, comment, and upload their own videos. The video service can be accessed on PCs, laptops, tablets, and mobile phones.
 
