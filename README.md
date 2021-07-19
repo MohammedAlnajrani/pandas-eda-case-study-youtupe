@@ -7,11 +7,8 @@ YouTube is a video-sharing service where users can watch, like, share, comment, 
 -Our Goal:
 To Answer the following questions:
 
-identify the top 5 videos?
-
-the most trending Youtube Channels in US,GB,jp and FR?
-
-identify the top 5 videos?
+the most trending (top 15) Youtube Channels in US,GB,jp and FR?
+![](images/top25trending.jpg)
 
 correlation between likes ,dislikes ,views and comment.
 
@@ -22,6 +19,8 @@ Top 1 Popular videos from each country?
 Top 1 like videos from each country?
 
 Trending video have Disabled Comment?
+
+identify the top 5 videos in USA?
 
 -DATA cleansing:
 The raw data about trending videos in youtube was given to start with to answer our questions
