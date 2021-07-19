@@ -30,7 +30,7 @@ we analyzed the data and removed duplicat values
 ## Building our Jupyter notebook:
 we built Jupyter notebook using pandas and  numpy, matplotlib and seaborn
 
-## Results:answered our questions, visulization:
+## Results: answered our questions, visulization:
 
 the most trending (top 15) Youtube Channels in US,GB,jp and FR?
 
