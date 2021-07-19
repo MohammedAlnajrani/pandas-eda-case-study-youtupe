@@ -11,7 +11,7 @@ To Answer the following questions:
 
 - Trending video have Disabled Comment?
 
-- }orrelation between likes ,dislikes ,views and comment.
+- correlation between likes ,dislikes ,views and comment.
 
 - Top 1 Popular videos from each category?
 
