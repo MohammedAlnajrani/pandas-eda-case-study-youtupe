@@ -7,7 +7,7 @@ YouTube is a video-sharing service where users can watch, like, share, comment, 
 ## Our Goal:
 To Answer the following questions:
 
-- لإhe most trending (top 15) Youtube Channels in US,GB,jp and FR?
+- The most trending (top 15) Youtube Channels in US,GB,jp and FR?
 
 - Trending video have Disabled Comment?
 
