@@ -25,7 +25,9 @@ Trending video have Disabled Comment?
 
 -DATA cleansing:
 The raw data about trending videos in youtube was given to start with to answer our questions
+
 we analyzed the data and removed duplicat values
+
 -bulding our Jupyter notebook:
 we built Jupyter notebook using pandas and  numpy, matplotlib and seaborn
 
