@@ -32,33 +32,43 @@ we built Jupyter notebook using pandas and  numpy, matplotlib and seaborn
 -Results:answered our questions, visulization:
 
 the most trending (top 15) Youtube Channels in US,GB,jp and FR?
+
 ![](images/top15trending.jpg)
 
 Trending video have Disabled Comment?
+
 ![](images/trendingDiscomment.png)
 
 correlation between likes ,dislikes ,views and comment.
+
 ![](images/map.png)
 
 like and comment in scatter plot
+
 ![](images/like-comment.png)
 
 dislike and comment in scatter plot
+
 ![](images/dislike-comment.png)
 
 views and like in scatter plot
+
 ![](images/viewsLike.png)
 
 views and dislike in scatter plot
+
 ![](images/dislike-views.png)
 
 Popular videos from each country
+
 ![](images/topPopular.png)
 
 Top 1 like videos from each country
+
 ![](images/topLike.png)
 
 identify the top 5 videos in USA?
+
 ![](images/topUSA-views.png)
 
 
